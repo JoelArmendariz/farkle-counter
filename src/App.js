@@ -1,12 +1,11 @@
 import React from 'react';
 import './App.css';
 
-import { Button } from '@material-ui/core';
-
 import Register from './Register';
 import Scores from './Scores';
 import Rules from './Rules';
 import GameButtons from './GameButtons';
+import CurrentRound from './CurrentRound';
 
 class App extends React.Component {
   constructor() {
@@ -135,6 +134,7 @@ class App extends React.Component {
           <Register startGame={this.startGame} />
         ) : (
           <div className="game-container">
+            <CurrentRound />
             <Scores
               handleScoreUpdate={this.handleScoreUpdate}
               handleUndo={this.handleUndo}
