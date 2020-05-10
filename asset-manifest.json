@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/farkle-counter/static/css/main.2cf56254.chunk.css",
+    "main.js": "/farkle-counter/static/js/main.49bbd0cf.chunk.js",
+    "main.js.map": "/farkle-counter/static/js/main.49bbd0cf.chunk.js.map",
+    "runtime-main.js": "/farkle-counter/static/js/runtime-main.45533218.js",
+    "runtime-main.js.map": "/farkle-counter/static/js/runtime-main.45533218.js.map",
+    "static/js/2.f3fb4386.chunk.js": "/farkle-counter/static/js/2.f3fb4386.chunk.js",
+    "static/js/2.f3fb4386.chunk.js.map": "/farkle-counter/static/js/2.f3fb4386.chunk.js.map",
+    "index.html": "/farkle-counter/index.html",
+    "precache-manifest.6a1ebfb45b623321b9fc1690873c8507.js": "/farkle-counter/precache-manifest.6a1ebfb45b623321b9fc1690873c8507.js",
+    "service-worker.js": "/farkle-counter/service-worker.js",
+    "static/css/main.2cf56254.chunk.css.map": "/farkle-counter/static/css/main.2cf56254.chunk.css.map",
+    "static/js/2.f3fb4386.chunk.js.LICENSE.txt": "/farkle-counter/static/js/2.f3fb4386.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45533218.js",
+    "static/js/2.f3fb4386.chunk.js",
+    "static/css/main.2cf56254.chunk.css",
+    "static/js/main.49bbd0cf.chunk.js"
+  ]
+}
